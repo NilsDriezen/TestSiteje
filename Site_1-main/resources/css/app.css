@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.menu-text {
+    @apply text-2xl
+}
+
+.menu-month {
+    @apply px-2 font-medium text-3xl
+}
+
+.menu-h2 {
+    @apply p-2 font-bold text-4xl text-center
+}
+
+.menu-h3 {
+    @apply p-2 text-2xl font-bold text-center underline
+}
+
+.menu-leaf {
+    @apply p-2 font-bold text-right
+}
+
+.menu-table th, .menu-table td {
+    @apply border border-gray-300 border-collapse
+}
+
+.menu-button {
+    @apply px-3 py-1 border border-gray-800 bg-gray-100 rounded-xl shadow-md hover:text-gray-400
+}
+
+.calendar-day.disabled {
+    pointer-events: none;
+    background-color: #d3d3d3; /* Light grey color to indicate disabled */
+    color: #a9a9a9; /* Dark grey text color */
+    cursor: not-allowed;
+}
+
+
+/*
+css stijn
+*/
+
+#map {
+    z-index: 1;
+}
+
+
+
+
+.disabled {
+    pointer-events: none;
+    background-color: #d3d3d3; /* Light grey color to indicate disabled */
+    color: #a9a9a9; /* Dark grey text color */
+    cursor: not-allowed;
+}
+
+
+
+/*CSS Kristof*/
+/*Home pagina*/
+/* gewoon scherm */
+.home-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.content {
+    width: 50%;
+    padding-right: 1rem;
+}
+
+.side-image {
+    width: 50%;
+    align-self: center;
+
+}
+
+/* klein scherm */
+@media (max-width: 1023px) {
+        .home-content {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .content,
+        .side-image {
+            width: 100%;
+            text-align: justify;
+        }
+
+        .side-image {
+            margin-top: 1rem;
+        }
+    }
+
+
+/*css Halim*/
+.padding-d1{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.bg-d1 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
