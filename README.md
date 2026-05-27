@@ -7,7 +7,7 @@ Project PHP | 2 ITF APP-AI-ACS | 2023-2024
 
 | Role          | Name                | Email                          | Github Username |
 |:--------------|:--------------------|:-------------------------------|:----------------|
-| Scrum Master  | Julene Wuyts s       | r0930153@student.thomasmore.be | JuleneW         
+| Scrum Master  | Julene Wuyts        | r0930153@student.thomasmore.be | JuleneW         
 | Document lead | Kurt Keunen         | r0945769@student.thomasmore.be | KurtKeunen      |
 | Member        | Kristof Martens     | r0930159@student.thomasmore.be | Ultraluminary   |
 | Member        | Halim Haidari       | r0766583@student.thomasmore.be | HaidariTM       
