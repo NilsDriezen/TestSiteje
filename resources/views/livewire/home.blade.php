@@ -33,7 +33,7 @@
             <!-- Review button -->
             <div class="flex justify-end pt-4">
                 <button @click="open = true" class="bg-gray-100 border rounded shadow p-2 hover:bg-gray-500 text-black font-bold py-2 px-4 rounded m-4">
-                    Review Schrijven
+                    Review MAKEN SABIE
                 </button>
             </div>
 
