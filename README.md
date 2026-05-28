@@ -2,7 +2,7 @@ Project PHP | 2 ITF APP-AI-ACS | 2023-2024
 
 ## Team: 2WT
 ## Client: Kristine Mangelschots
-## Subject: Mieke's Huiskamerrestaurant
+## Subject: Mieke's Huiskamerrestaur
 ## Team members:
 
 | Role          | Name                | Email                          | Github Username |
